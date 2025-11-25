@@ -1,0 +1,9 @@
+/home/deemusz/Pacman/build/Desktop-Debug/CMakeFiles/Pacman.dir
+/home/deemusz/Pacman/build/Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/deemusz/Pacman/build/Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/deemusz/Pacman/build/Desktop-Debug/CMakeFiles/list_install_components.dir
+/home/deemusz/Pacman/build/Desktop-Debug/CMakeFiles/install.dir
+/home/deemusz/Pacman/build/Desktop-Debug/CMakeFiles/install/local.dir
+/home/deemusz/Pacman/build/Desktop-Debug/CMakeFiles/install/strip.dir
+/home/deemusz/Pacman/build/Desktop-Debug/CMakeFiles/Pacman_autogen_timestamp_deps.dir
+/home/deemusz/Pacman/build/Desktop-Debug/CMakeFiles/Pacman_autogen.dir
