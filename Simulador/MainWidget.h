@@ -62,6 +62,7 @@ private:
 
         QHBoxLayout* angleLayout = new QHBoxLayout();
         angleLabel = new QLabel("Ángulo: 45°");
+        angleLabel->setStyleSheet("color: Black;");
         angleLabel->setMinimumWidth(120);
         angleSlider = new QSlider(Qt::Horizontal);
         angleSlider->setRange(0, 180);
@@ -71,6 +72,7 @@ private:
 
         QHBoxLayout* speedLayout = new QHBoxLayout();
         speedLabel = new QLabel("Velocidad: 150 m/s");
+        speedLabel->setStyleSheet("color: Black;");
         speedLabel->setMinimumWidth(120);
         speedSlider = new QSlider(Qt::Horizontal);
         speedSlider->setRange(50, 300);
@@ -81,14 +83,14 @@ private:
         QHBoxLayout* buttonLayout = new QHBoxLayout();
         launchButton = new QPushButton("Lanzar Proyectil");
         launchButton->setStyleSheet(
-            "QPushButton { background-color: #4CAF50; color: white; "
+            "QPushButton { background-color: #4CAF50; color: Black; "
             "font-size: 14px; font-weight: bold; padding: 10px; border-radius: 5px; }"
             "QPushButton:hover { background-color: #45a049; }"
             "QPushButton:disabled { background-color: #cccccc; }");
 
         resetButton = new QPushButton("Reiniciar Juego");
         resetButton->setStyleSheet(
-            "QPushButton { background-color: #2196F3; color: white; "
+            "QPushButton { background-color: #2196F3; color: Black; "
             "font-size: 14px; font-weight: bold; padding: 10px; border-radius: 5px; }"
             "QPushButton:hover { background-color: #0b7dda; }");
 
